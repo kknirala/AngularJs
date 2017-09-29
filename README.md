@@ -9,3 +9,4 @@ The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $e
 4. Hacking the DOM
 5. Failing to Test
 
+http://jasonwatmore.com/post/2016/07/13/angularjs-custom-modal-example-tutorial 
